@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <h1>I am Francesco, Jr. Full Stack Web Developer.</h1>
+  <h1>I am Francesco, Full Stack Web Developer.</h1>
   <p>
     I started my career studying computer engineering in Pisa, I gained basic proficiency in several programming languages, including C, C++, C#, Java, MySQL, PHP, HTML, CSS, and JavaScript. However, I quit university in 2016 after passing 2/3 of my exams to work in my family's business as a yacht painter.<br>
     In May 2022 I decided to return to my passion for web development and enrolled in a Full Stack Web Developer course at an online academy called Boolean. In December 2022 i became a Jr. Full Stack Web Developer. <br>
