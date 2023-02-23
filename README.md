@@ -76,5 +76,11 @@
   [![Amreal-Lamanera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amreal-Lamanera&show_icons=true&theme=dark&hide=contribs)]([https://github.com/Amreal-Lamanera/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Amreal-Lamanera&show_icons=true&theme=dark&hide=contribs))
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amreal-Lamanera&layout=compact&theme=dark)]([https://github.com/Amreal-Lamanera/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amreal-Lamanera&layout=compact&theme=dark))
 </div>
+  
+<div align=center>
+  <h2>Trophies</h2>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Amreal-Lamanera&theme=onedark)](https://github.com/Amreal-Lamanera/github-profile-trophy)
+</div>
 
 ![VIEWS](https://komarev.com/ghpvc/?username=Amreal-Lamanera)
