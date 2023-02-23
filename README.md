@@ -80,7 +80,7 @@
 <div align=center>
   <h2>Trophies</h2>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Amreal-Lamanera&theme=onedar&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Amreal-Lamanera&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ![VIEWS](https://komarev.com/ghpvc/?username=Amreal-Lamanera)
