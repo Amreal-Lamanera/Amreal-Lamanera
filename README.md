@@ -86,6 +86,6 @@
   <br><br>
 
  [![Linkedin: francescopieraccini](https://img.shields.io/badge/-francescopieraccini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francescopieraccini)](https://www.linkedin.com/in/francescopieraccini)
-![GitHub followers](https://img.shields.io/github/followers/Amreal-Lamanera?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/Amreal-Lamanera?label=Follow&style=social)](https://github.com/Amreal-Lamanera)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://francescopieraccini.it/)](https://francescopieraccini.it/)
 ![VIEWS](https://komarev.com/ghpvc/?username=Amreal-Lamanera)
