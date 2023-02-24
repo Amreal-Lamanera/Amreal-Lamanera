@@ -1,6 +1,6 @@
 [![JUMBO](./duck-3.JPEG)](https://www.francescopieraccini.it/my_site)
 
-#I am Francesco, Full Stack Web Developer.
+<h1>I am Francesco, Full Stack Web Developer.</h1>
 
 <p>
   I started my career studying computer engineering in Pisa, I gained basic proficiency in several programming languages, including C, C++, C#, Java, MySQL, PHP, HTML, CSS, and JavaScript. However, I quit university in 2016 after passing 2/3 of my exams to work in my family's business as a yacht painter.<br>
@@ -26,7 +26,7 @@ My Curriculum Vitae (italian only):
 
 <div align=center>
 
-  ##My skills
+  <h2>My skills</h2>
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,7 +48,7 @@ My Curriculum Vitae (italian only):
   
 <div align=center>
 
-  ##My IDEs
+  <h2>My IDEs</h2>
   
   ![ATOM](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
   ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -58,7 +58,7 @@ My Curriculum Vitae (italian only):
 
 <div align=center>
 
-##Contacts
+<h2>Contacts</h2>
   
   <a href="mailto:pieraccini.francesco@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -73,7 +73,7 @@ My Curriculum Vitae (italian only):
 
 <div align="center" >
 
-  ##My GitHub Stats
+  <h2>My GitHub Stats</h2>
 
   [![Amreal-Lamanera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amreal-Lamanera&show_icons=true&theme=dark&hide=contribs)]([https://github.com/Amreal-Lamanera/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Amreal-Lamanera&show_icons=true&theme=dark&hide=contribs))
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amreal-Lamanera&layout=compact&theme=dark)]([https://github.com/Amreal-Lamanera/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Amreal-Lamanera&layout=compact&theme=dark))
@@ -81,7 +81,7 @@ My Curriculum Vitae (italian only):
   
 <div align=center>
 
-  ##Trophies
+  <h2>Trophies</h2>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Amreal-Lamanera&theme=darkhub&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -93,3 +93,9 @@ My Curriculum Vitae (italian only):
 [![GitHub followers](https://img.shields.io/github/followers/Amreal-Lamanera?label=Follow&style=social)](https://github.com/Amreal-Lamanera)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://francescopieraccini.it/)](https://francescopieraccini.it/)
 ![VIEWS](https://komarev.com/ghpvc/?username=Amreal-Lamanera)
+
+<style>
+h1 {
+color: red;
+}
+</style>
