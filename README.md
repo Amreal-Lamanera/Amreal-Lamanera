@@ -93,9 +93,3 @@ My Curriculum Vitae (italian only):
 [![GitHub followers](https://img.shields.io/github/followers/Amreal-Lamanera?label=Follow&style=social)](https://github.com/Amreal-Lamanera)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://francescopieraccini.it/)](https://francescopieraccini.it/)
 ![VIEWS](https://komarev.com/ghpvc/?username=Amreal-Lamanera)
-
-<style>
-h1 {
-color: red;
-}
-</style>
