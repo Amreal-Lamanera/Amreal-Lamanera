@@ -1,6 +1,11 @@
 [![JUMBO](./duck-3.JPEG)](https://www.francescopieraccini.it/my_site)
 
-<h1>I am Francesco, Full Stack Web Developer.</h1>
+<h1>
+  I am Francesco, Full Stack Web Developer.
+  <a title="Visita francescopieraccini.it" href="https://www.francescopieraccini.it/" aria-label="Home Page di francescopieraccini.it">
+    <img src="https://www.francescopieraccini.it/my_site/img/loghi/light-blue.svg" alt="Logo" width="48" style="vertical-align: bottom; display: inline-block;" />
+  </a>
+</h1>
 
 <p>
   I started my career studying computer engineering in Pisa, I gained basic proficiency in several programming languages, including C, C++, C#, Java, MySQL, PHP, HTML, CSS, and JavaScript. However, I quit university in 2016 after passing 2/3 of my exams to work in my family's business as a yacht painter.<br>
@@ -91,5 +96,4 @@ My Curriculum Vitae (italian only):
 
 [![Linkedin: francescopieraccini](https://img.shields.io/badge/-francescopieraccini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francescopieraccini)](https://www.linkedin.com/in/francescopieraccini)
 [![GitHub followers](https://img.shields.io/github/followers/Amreal-Lamanera?label=Follow&style=social)](https://github.com/Amreal-Lamanera)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://francescopieraccini.it/)](https://francescopieraccini.it/)
 ![VIEWS](https://komarev.com/ghpvc/?username=Amreal-Lamanera)
