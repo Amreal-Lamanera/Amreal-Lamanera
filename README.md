@@ -8,9 +8,15 @@
 </h1>
 
 <p>
-  I started my career studying computer engineering in Pisa, I gained basic proficiency in several programming languages, including C, C++, C#, Java, MySQL, PHP, HTML, CSS, and JavaScript. However, I quit university in 2016 after passing 2/3 of my exams to work in my family's business as a yacht painter.<br>
-  In May 2022 I decided to return to my passion for web development and enrolled in a Full Stack Web Developer course at an online academy called Boolean. In December 2022 i became a Jr. Full Stack Web Developer. <br>
-  Currently, I work as a full stack developer at Vola S.p.A., a company located in Viareggio (my city). In my work, I mainly use PHP (7.4, 8.0, and 8.2), MySQL, Laravel (6, 7, and 9), Blade, Bootstrap, jQuery, and JavaScript. We daily develop and mantain large web applications for our clients.
+  I’m Francesco, a Full Stack Web Developer based in Viareggio, Italy. 
+
+  I embarked on my career by studying computer engineering in Pisa, where I gained proficiency in languages like C, C++, Java, MySQL, PHP, HTML, CSS, and JavaScript.
+
+  After a hiatus to work in my family’s yacht painting business, I reignited my passion for web development in May 2022. I completed the Full Stack Web Developer course at Boolean online academy with excellent results and became a Full Stack Web Developer in December 2022.
+
+  Currently, I work at Vola S.p.A., where I use PHP (7.4, 8.0, and 8.2), MySQL, Laravel (6, 7, and 9), Blade, Bootstrap, jQuery, and JavaScript to develop and maintain large web applications for clients.
+
+  I’m enthusiastic about writing clean, reusable code and am well-versed in object-oriented programming. I believe in the importance of clear method names and thorough function documentation.
 </p>
 
 My Curriculum Vitae (italian only):
