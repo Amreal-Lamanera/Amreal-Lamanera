@@ -3,7 +3,7 @@
 <h1>
   I am Francesco, Full Stack Web Developer.
   <a title="Visita francescopieraccini.it" href="https://www.francescopieraccini.it/" aria-label="Home Page di francescopieraccini.it">
-    <img src="https://www.francescopieraccini.it/my_site/img/loghi/light-blue.svg" alt="Logo" width="48" style="vertical-align: bottom; display: inline-block;" />
+    <img src="https://www.francescopieraccini.it/my_site/src/img/loghi/light-blue.svg" alt="Logo" width="48" style="vertical-align: bottom; display: inline-block;" />
   </a>
 </h1>
 
