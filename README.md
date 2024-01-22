@@ -23,7 +23,7 @@ My Curriculum Vitae (italian only):
 
 <ul>
   <li>
-    <a href="https://www.francescopieraccini.it/my_site/CV.pdf">
+    <a href="https://www.francescopieraccini.it/my_site/src/CV.pdf">
       PDF version
     </a>
   </li>
