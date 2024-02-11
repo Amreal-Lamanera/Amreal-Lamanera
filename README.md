@@ -19,17 +19,22 @@
   I’m enthusiastic about writing clean, reusable code and am well-versed in object-oriented programming. I believe in the importance of clear method names and thorough function documentation.
 </p>
 
-My Curriculum Vitae (italian only):
+My Curriculum Vitae:
 
 <ul>
   <li>
     <a href="https://www.francescopieraccini.it/my_site/src/CV.pdf">
-      PDF version
+      PDF version (ita)
+    </a>
+  </li>
+  <li>
+    <a href="https://www.francescopieraccini.it/my_site/src/CV_en.pdf">
+      PDF version (eng)
     </a>
   </li>
   <li>
     <a href="https://www.francescopieraccini.it/my_site/aboutMe.php#about">
-      Web version
+      Web version (ita)
     </a>
   </li>
 </ul>
