@@ -1,20 +1,18 @@
 [![JUMBO](./duck-3.JPEG)](https://www.francescopieraccini.it/my_site)
 
 <h1>
-  I am Francesco, Full Stack Web Developer.
+  I am Francesco, Full Stack Web Developer based in Viareggio, Italy.
   <a title="Visita francescopieraccini.it" href="https://www.francescopieraccini.it/" aria-label="Home Page di francescopieraccini.it">
     <img src="https://www.francescopieraccini.it/my_site/src/img/loghi/light-blue.svg" alt="Logo" width="48" style="vertical-align: bottom; display: inline-block;" />
   </a>
 </h1>
 
 <p>
-  I’m Francesco, a Full Stack Web Developer based in Viareggio, Italy. 
-
   I embarked on my career by studying computer engineering in Pisa, where I gained proficiency in languages like C, C++, Java, MySQL, PHP, HTML, CSS, and JavaScript.
 
   After a hiatus to work in my family’s yacht painting business, I reignited my passion for web development in May 2022. I completed the Full Stack Web Developer course at Boolean online academy with excellent results and became a Full Stack Web Developer in December 2022.
 
-  Currently, I work at Vola S.p.A., where I use PHP (7.4, 8.0, and 8.2), MySQL, Laravel (6, 7, and 9), Blade, Bootstrap, jQuery, and JavaScript to develop and maintain large web applications for clients.
+  Currently, I work at Cerbeyra S.p.A. - Cerbeyra is the rebranding of the company Vola SpA. We are a team of Cyber Security and Threat Intelligence experts dedicated to brand protection. My role is to develop web pages that allow clients and operators to access the services offered by the company.
 
   I’m enthusiastic about writing clean, reusable code and am well-versed in object-oriented programming. I believe in the importance of clear method names and thorough function documentation.
 </p>
@@ -28,13 +26,8 @@ My Curriculum Vitae:
     </a>
   </li>
   <li>
-    <a href="https://www.francescopieraccini.it/my_site/src/CV_en.pdf">
-      PDF version (eng)
-    </a>
-  </li>
-  <li>
-    <a href="https://www.francescopieraccini.it/my_site/aboutMe.php#about">
-      Web version (ita)
+    <a href="https://www.francescopieraccini.it/about-me">
+      Web version (ita & eng - you can choose in the footer of the website)
     </a>
   </li>
 </ul>
@@ -68,7 +61,7 @@ My Curriculum Vitae:
   
   ![ATOM](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
   ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+  ![PHPStorm](https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 </div>
 
@@ -80,7 +73,6 @@ My Curriculum Vitae:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       <font-awesome-icon icon="fa-regular fa-envelope" />
   </a>
-  
   <a href="https://wa.me//+393277770202">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
